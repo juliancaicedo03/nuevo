@@ -9,14 +9,14 @@
     justify-content: center;
     text-align: center;
     color: #F77F00;
-    padding: 50px;
+    padding-top: 50px;
 }
 
 .cnt2 {
     display: flex;
     justify-content: center;
     text-align: center;
-    color: #464646;
+    color: #ffffff;
     padding-top: 50px;
 }
 
@@ -38,6 +38,17 @@
 }
 
 .bg2{
-    background-color: #F77F00;
+    background-image: url("/assets/images/BG.png");
     padding: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.card {
+    justify-content: center;
+    text-align: center;
 }
